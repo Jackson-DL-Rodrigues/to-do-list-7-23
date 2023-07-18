@@ -1,0 +1,19 @@
+@media(max-width: 920px) {
+ 
+    .container{
+        width: 320px;
+    }
+
+    .input-task{
+        width: 200px;
+        height: 40px;
+        margin-top: 12px;
+    }
+
+    .button-add-task{
+        width: 90px;
+        font-size: 15px;    
+        margin-top: 12px;
+    }
+
+}
